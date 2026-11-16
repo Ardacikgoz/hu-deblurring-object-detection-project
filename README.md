@@ -16,7 +16,7 @@ How much do different types of image blur hurt an off-the-shelf object detector,
 | Bilateral filtered | 0.356 | 0.253 | 0.234 | 0.346 | **0.359** |
 | Defocus | 0.378 | 0.284 | 0.289 | 0.397 | **0.426** |
 | Gaussian | 0.257 | 0.196 | 0.259 | **0.298** | 0.283 |
-| Low light | **0.048** | 0.113 | 0.010 | 0.007 | – |
+| Low light | 0.048 | **0.113** | 0.010 | 0.007 | – |
 | Motion | 0.132 | 0.178 | 0.040 | **0.317** | – |
 
 Clean images: **0.539** mAP@50. *(Best value per row in bold; "–" = not evaluated.)*
